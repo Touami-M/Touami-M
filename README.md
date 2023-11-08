@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋 I'm [Touami Mohammed](https://www.linkedin.com/in/mohammed-touami/)
-> Forth Year Computer Science Student At [ESI EX INI](https://www.esi.dz/) 
+> Final Year Computer Science Student At [ESI EX INI](https://www.esi.dz/) 
 
  I find great passion in problem solving, anything to do with logic, maths or coding.<br>If there's some sort of competition, you'll probably find me there.
 
