@@ -9,7 +9,7 @@
 
 - <h4> I have coding experience in most common languages, however I always prefer working with Python or C.</h4>
 - <h4> I've worked on multiple projects in all sorts of domains, the ones I enjoy most are Data/ML oriented, Data Structures, or low-level coding with C, I also do a bit of Web developement, Database, and backend coding</h4>
-- <h4> I also like to write a lot, you can find me on <a href="https://medium.com/@touami_mohammed">Medium</a> and if you need something written for you, contact me on <a href="https://www.upwork.com/freelancers/~01378c5c12900144c6">UpWork</a> or directly through my email (below).</h4>
+- <h4> I also like to write a lot, you can find me on <a href="https://medium.com/@touami_mohammed">Medium</a> and if you need something written for you, contact me o directly through my email (below).</h4>
 
 
 ## Programming Languages
